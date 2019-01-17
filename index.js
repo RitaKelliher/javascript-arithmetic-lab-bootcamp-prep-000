@@ -22,3 +22,7 @@ function dec(n) {
   console.log (n--)
   return n--
 }
+function makeInt(n) {
+  console.log(parseInt('n'))
+  return parseInt('n')
+}
