@@ -22,7 +22,7 @@ function dec(n) {
   console.log (n--)
   return n--
 }
-function makeInt(n) {
+function makeInt(n, '10') {
   console.log(parseInt('${n}'))
   return parseInt('${n}')
 }
