@@ -23,6 +23,6 @@ function dec(n) {
   return n--
 }
 function makeInt(n) {
-  console.log(parseInt('n'))
-  return parseInt('n')
+  console.log(parseInt('${n}'))
+  return parseInt('${n}')
 }
