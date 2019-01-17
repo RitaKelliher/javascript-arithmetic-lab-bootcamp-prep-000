@@ -14,3 +14,10 @@ function divide(a, b) {
   console.log(a / b)
   return a / b
 }
+function inc(n) {
+  console.log (n++)
+  return n++
+}
+function dec(n) {
+  console.log
+}
